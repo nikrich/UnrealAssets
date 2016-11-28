@@ -4,7 +4,7 @@ Free Assets for Unreal Engine
 ## Models & Materials
 
 | Name          | Link           | Creator  |
-| ------------- |:--------------:| --------:|
+| ------------- |----------------| ---------|
 | Unreal Engine 4 Tropical Forest Low poly Pack | https://gumroad.com/l/cuLnG                                         | Epic Games |
 | Open World Demo Collection                    | https://www.unrealengine.com/marketplace/open-world-demo-collection | Epic Games |
 | Automotive Materials                          | https://www.unrealengine.com/marketplace/automotive-material-pack   | Epic Games |
@@ -17,8 +17,12 @@ Free Assets for Unreal Engine
 | Realistic tree pack                           | https://gumroad.com/l/aBLPQ                                         | avik244   |
 | Land assets                                   | https://drive.google.com/file/d/0B_chvO9FiyXpT3o0cVpQQXVJcXM/edit   | dev666rej    |
 
+
 ## Blueprints
-* Advanced Grass - https://drive.google.com/file/d/0B_chvO9FiyXpTnptb2tsYUZUb2M/edit
+
+| Name          | Link           | Creator  |
+| ------------- |----------------| ---------|
+| Advanced Grass                                | https://drive.google.com/file/d/0B_chvO9FiyXpTnptb2tsYUZUb2M/edit  | Epic Games |
 
 
 
