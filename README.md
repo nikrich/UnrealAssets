@@ -22,6 +22,20 @@ Free Assets for Unreal Engine 4
 | Trees Library                                 | https://gumroad.com/l/qyKQ#                                         | Lluis Garcia  |
 | Foliage pack (Grass)                          | https://drive.google.com/file/d/0B_chvO9FiyXpdTllaC1UaVM2YkE/edit   | mAlkAv!An  |
 | Assets pack (Misc)                            | https://drive.google.com/file/d/0B_chvO9FiyXpVUZUR0pUM3Z3Nlk/edit   | Michal Orzelek |
+| Glass                                         | http://www.michalorzelek.com/blog/ue4-material-glass/               | Michal Orzelek |
+| Material – Stone 01                           | http://www.michalorzelek.com/blog/ue4-material-stone-01/            | Michal Orzelek |
+| Material – Stone 02                           | http://www.michalorzelek.com/blog/ue4-material-stone-02/            | Michal Orzelek |
+| Material – Tile 01                            | http://www.michalorzelek.com/blog/ue4-material-tile-01/             | Michal Orzelek |
+| Material – Tile 02                            | http://www.michalorzelek.com/blog/ue4-material-tile-02/             | Michal Orzelek |
+| 3D Model – Chairs                             | http://www.michalorzelek.com/blog/3d-model-chairs/                  | Michal Orzelek |
+| 3D Model – Bench                              | http://www.michalorzelek.com/blog/3d-model-bench/                   | Michal Orzelek |
+| 3D Model – Old doors                          | http://www.michalorzelek.com/blog/category/free-content/page/2/     | Michal Orzelek |
+| UE4 Material – Scratched Metal                | http://www.michalorzelek.com/blog/ue4-material-scratched-metal/     | Michal Orzelek |
+| 3D Model – Bucket                             | http://www.michalorzelek.com/blog/category/free-content/page/2/     | Michal Orzelek |
+| Computer assets pack                          | https://drive.google.com/file/d/0B_chvO9FiyXpbDZTYkpyVmlVVGs        | NDFJay  |
+| 36 metal plates                               | https://drive.google.com/file/d/0B_chvO9FiyXpVHBRczhrejZrd3M/edit   | Nobiax  |
+| Wooden crates v. 2                            | https://drive.google.com/file/d/0B_chvO9FiyXpZFB2Z0l0em5mVFE/edit   | Nobiax  |
+
 
 
 ## Blueprints
