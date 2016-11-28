@@ -1,5 +1,5 @@
-# UnrealAssets
-Free Assets for Unreal Engine
+# Unreal Engine 4 (Mostly) Free Assets 
+Free Assets for Unreal Engine 4
 
 ## Models & Materials
 
@@ -20,7 +20,9 @@ Free Assets for Unreal Engine
 | VFX gas planet                                | https://drive.google.com/file/d/0Bz5ivbBQg0KxLWJESGVLZ2pEV3M/edit   | Jeremy Baldwin |
 | Textures pack 1 (Marble Tiles)                | https://drive.google.com/file/d/0Bz5ivbBQg0KxLWJESGVLZ2pEV3M/edit   | John Rose  |
 | Trees Library                                 | https://gumroad.com/l/qyKQ#                                         | Lluis Garcia  |
-| Trees Library                                 | https://gumroad.com/l/qyKQ#                                         | Lluis Garcia  |
+| Foliage pack (Grass)                          | https://drive.google.com/file/d/0B_chvO9FiyXpdTllaC1UaVM2YkE/edit   | mAlkAv!An  |
+| Assets pack (Misc)                            | https://drive.google.com/file/d/0B_chvO9FiyXpVUZUR0pUM3Z3Nlk/edit   | Michal Orzelek |
+
 
 ## Blueprints
 
