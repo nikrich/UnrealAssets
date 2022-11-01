@@ -10,6 +10,9 @@
 * https://www.coursera.org/learn/intermediate-object-oriented-programming--unreal-games
 * https://www.coursera.org/learn/more-programming-unreal
 
+## Animation
+* https://dev.epicgames.com/community/learning/tutorials/6VM8/unreal-engine-control-rig-resources
+
 ## Engine Concepts
 * https://www.unrealengine.com/en-US/blog/the-15-best-online-courses-to-learn-unreal-engine
 * https://dev.epicgames.com/community/learning?application=unreal_engine
