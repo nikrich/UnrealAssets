@@ -20,3 +20,6 @@
 
 # Courses with a curriculum
 * https://mediaspace.unrealengine.com/CourseCatalog
+
+# Quick Guides
+Terrain Guide - https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/Landscape/TechnicalGuide/
